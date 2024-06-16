@@ -1,0 +1,108 @@
+:doctype: book
+:author: Lixfeld
+:revdate: 01.06.2024
+:notitle:
+
+= {author}
+// Name in title
+
+== Resume
+:hide-uri-scheme:
+
+=== Personal details
+
+
+[cols="1,3", grid="none", frame="none"]
+|===
+|Name:
+s|Full Name
+
+
+|Address:
+|Address Line 1
+
+// Address Line 2
+|
+|Address Line 2
+
+
+|Family status:
+|Status
+
+|Date and place of birth:
+|01.01.1970 in Location
+
+|Telephone:
+|01234 / 567890
+
+|E-Mail:
+|lixfeld@example.com
+
+|GitHub:
+|https://github.com/Lixfeld
+|===
+
+=== Programming skills
+
+[cols="1,3", grid="none", frame="none"]
+|===
+|Editor / IDE:
+s|Visual Studio, Rider and VSCode
+
+|Frameworks:
+s|.NET, ASP.NET Core, WPF and Windows Forms
+
+|Database systems:
+s|Microsoft SQL Server, PostgreSQL and SQLite
+
+|Continuous Integration:
+s|GitHub Actions and Azure Pipelines
+
+|Version control systems:
+s|Git and SVN
+|===
+
+=== Languages
+
+[cols="1,3", grid="none", frame="none"]
+|===
+|German:
+s|Native
+
+|English:
+s|Advanced
+|===
+
+=== Education
+
+[cols="1,3", grid="none", frame="none"]
+|===
+|20XX - 20XX
+|*Graduation 1* +
+School XYZ, Location
+
+|20XX - 20XX
+|*Graduation 2* +
+School XYZ, Location
+|===
+
+=== Work experience
+
+[cols="1,3", grid="none", frame="none"]
+|===
+|01/20XX - 12/20XX
+|*Junior Software Developer* + 
+Company XYZ, Location
+
+|01/20XX - 12/20XX
+|*Software Developer* + 
+Company XYZ, Location
+
+|01/20XX - 12/20XX
+|*Software Developer* + 
+Company XYZ, Location
+
+|01/20XX - now
+|*Senior Software Developer* + 
+Company XYZ, Location
+|===

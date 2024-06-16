@@ -1,0 +1,28 @@
+extends: default
+base:
+  font-size: 10
+role:
+  blue:
+    font-color: "#0199ff"
+heading-h2:
+  margin-top: 0
+  margin-bottom: 6
+  font-size: 16
+  font-color: $role-blue-font-color
+  text-transform: uppercase
+heading-h3:
+  margin-top: 0
+  margin-bottom: 6
+  font-size: 12
+  font-color: $role-blue-font-color
+  text-transform: uppercase
+  border-width: [0, 0, 1, 0]
+  border-color: $role-blue-font-color
+table:
+  cell:
+    line-height: 1
+    padding: [0, 0, 2, 2]
+footer:
+  recto:
+    right:
+      content: "Location, {revdate}"
