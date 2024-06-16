@@ -1,6 +1,7 @@
 :doctype: book
 :author: Lixfeld
 :revdate: 01.06.2024
+:imagesdir: images
 :notitle:
 
 = {author}
@@ -11,12 +12,11 @@
 
 === Personal details
 
-
-[cols="1,3", grid="none", frame="none"]
+[cols="2,3,3", grid="none", frame="none"]
 |===
 |Name:
 s|Full Name
-
+.8+a|image::placeholder-820x1090.png[align="right", pdfwidth="90"]
 
 |Address:
 |Address Line 1
